@@ -40,5 +40,10 @@
     "@red-cup-engineering/organizing": "0.2.3",
     "@red-cup-engineering/relating": "0.10.4"
   },
-  "sideEffects": false
+  "sideEffects": false,
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
 }
